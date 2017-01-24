@@ -1,8 +1,8 @@
 {
-  "name": "revealjs-slide-boilerplate",
+  "name": "reusable-with-functional-composition",
   "version": "1.0.0",
   "author": "Bob Wei <bob61016@gmail.com>",
-  "description": "A reveal.js slide boilerplate",
+  "description": "A slide talking about reusability with functional composition",
   "license": "MIT",
   "scripts": {
     "deploy:gh-pages": "gh-pages -d src"
